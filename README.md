@@ -10,7 +10,7 @@ In this project, I have analyzed the following dataset containing Jewelery revie
 The goal is to determine if there is any bias toward favorable reviews from Vine members in the dataset. 
 
 
-## Results: Using bulleted lists and images of DataFrames as support, address the following questions:
+## Results: 
         
 ### How many Vine reviews and non-Vine reviews were there?
     
