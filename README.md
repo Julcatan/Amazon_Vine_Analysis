@@ -16,36 +16,40 @@ The goal is to determine if there is any bias toward favorable reviews from Vine
     
     The dataset contained:
      - 21 paid (Vine) reviews
-     - 7689 unpaid (non-Vine) reviews
+     
     
-    
-   ![image](https://user-images.githubusercontent.com/91682586/152664838-6373acf8-859e-4fbb-941a-dea6fb159296.png)
+  ![image](https://user-images.githubusercontent.com/91682586/152696895-ce988b46-6883-4b5d-9103-7d12acbf7e70.png)
 
+      - and 7689 unpaid (non-Vine) reviews
     
-   ![image](https://user-images.githubusercontent.com/91682586/152664846-fe167735-5ab2-4f49-80b2-bc72e6a92a0c.png)
+  ![image](https://user-images.githubusercontent.com/91682586/152696917-537d5053-d5df-44c6-9676-2d47f2534062.png)
 
     
     
 ### How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
-    - 11 paid reviews were 5 stars
-    - 4444 unpaid reviews were 5 stars
+    - 11 paid reviews received 5 stars.
     
-   ![image](https://user-images.githubusercontent.com/91682586/152664872-aa76a7bc-c879-4235-8c46-212f2052abb0.png)
- 
-   ![image](https://user-images.githubusercontent.com/91682586/152664891-ee96ad54-8d74-4cf2-b99c-9cb385bcda3f.png)
+   ![image](https://user-images.githubusercontent.com/91682586/152696949-f72fbcda-85a1-4d70-9559-6bdc2fa5c777.png)
+
+    - 4444 unpaid reviews received 5 stars.
+    
+   ![image](https://user-images.githubusercontent.com/91682586/152696967-f3b9fed2-0f9a-4c71-9b69-8470b77caa92.png)
+
+   
 
 ### What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
 
     - 52,4% percent of paid Vine reviews were 5 stars
     
-    ![image](https://user-images.githubusercontent.com/91682586/152696788-29700f0e-2906-4932-bc63-22783f66c757.png)
+   ![image](https://user-images.githubusercontent.com/91682586/152696788-29700f0e-2906-4932-bc63-22783f66c757.png)
 
     - 57,9% percent of unpaid Vine reviews were 5 stars
     
-    ![image](https://user-images.githubusercontent.com/91682586/152696777-ca7cdc8c-4ee6-4d3a-ac5b-452af1637345.png)
+   ![image](https://user-images.githubusercontent.com/91682586/152696777-ca7cdc8c-4ee6-4d3a-ac5b-452af1637345.png)
 
     
-### Summary: In your summary, state if there is any positivity bias for reviews in the Vine program. Use the results of your analysis to support your statement. Then, provide one additional analysis that you could do with the dataset to support your statement.
-
-    -
-    -
+### Summary: 
+       
+    - There is only a small data set of paid Vines for Jewelery. Therefore it could be that there is bias given a bigger sample.   
+    - The existing data shows no positivity bias for reviews in the Vine program. The percentage of 5 star ratings for unpaid reviews is actually higher than for paid reviews.
+    
