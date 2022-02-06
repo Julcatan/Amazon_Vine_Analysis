@@ -1,7 +1,7 @@
 # Amazon_Vine_Analysis
 
-## Overview of the analysis: Explain the purpose of this analysis.
-This analysis evaluates data related to the Amazon Vine program. The Amazon Vine program is a service that allows manufacturers and publishers to receive reviews for their products. Companies like SellBy pay a small fee to Amazon and provide products to Amazon Vine members, who are then required to publish a review.
+## Overview of the analysis: 
+The Amazon Vine program is a service that allows manufacturers and publishers to receive reviews for their products. Companies like SellBy pay a small fee to Amazon and provide products to Amazon Vine members, who are then required to publish a review.
 
 In this project, I have analyzed the following dataset containing Jewelery reviews: 
 
