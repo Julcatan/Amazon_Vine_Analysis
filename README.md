@@ -45,9 +45,8 @@ The goal is to determine if there is any bias toward favorable reviews from Vine
 
     - 57,9% percent of unpaid Vine reviews were 5 stars
     
-   ![image](https://user-images.githubusercontent.com/91682586/152696777-ca7cdc8c-4ee6-4d3a-ac5b-452af1637345.png)
+  ![image](https://user-images.githubusercontent.com/91682586/152697504-0ccae1d7-c2fb-4639-ac76-9cecdd4e5aff.png)
 
- ___   
 ### Summary: 
        
    - The existing data shows no positivity bias for reviews in the Vine program. The percentage of 5 star ratings for unpaid reviews is actually higher than for paid reviews.
