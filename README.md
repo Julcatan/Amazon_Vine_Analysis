@@ -50,4 +50,4 @@ The goal is to determine if there is any bias toward favorable reviews from Vine
 ### Summary: 
        
    - The existing data shows no positivity bias for reviews in the Vine program. The percentage of 5 star ratings for unpaid reviews is actually higher than for paid reviews.
-   - There is only a small data set of paid Vines for Jewelery. Therefore it could be that there is positivity bias given a bigger sample.   
+   - The evaluation is a bit difficult because we have only a small data set of paid Vines for Jewelery. Therefore it could be that there is positivity bias if we would be given a bigger sample.    
